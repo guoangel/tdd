@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"ArticleTest::testTitleIsEmptyByDefault":0.004}}
+{"version":1,"defects":{"ArticleTest::testSlugIsEmptyWithNoTitle":4},"times":{"ArticleTest::testTitleIsEmptyByDefault":0.004,"ArticleTest::testSlugIsEmptyWithNoTitle":0}}
