@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":[]}
+{"version":1,"defects":[],"times":{"ArticleTest::testTitleIsEmptyByDefault":0.004}}
